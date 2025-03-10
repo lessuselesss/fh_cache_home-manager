@@ -133,7 +133,7 @@ in
         tree
         pstree
         tmux
-        unrar
+        #unrar - also 'un-free'
         unzip
         zsh-powerlevel10k
       
