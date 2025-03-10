@@ -22,12 +22,12 @@
       # - linuxHostname -> the hostname of your Ubuntu machine (e.g. `hostname` in the terminal)
       homeConfigurations = {
         "macUsername@macHostname" = helper.mkHome {
-          username = "macUsername";
-          hostname = "macHostname";
+          username = "lessuseless";
+          hostname = "anubis";
         };
         "linuxUsername@linuxHostname" = helper.mkHome {
-          username = "linuxUsername";
-          hostname = "linuxHostname";
+          username = "lessuseless";
+          hostname = "tachi";
         };
       };
     };
