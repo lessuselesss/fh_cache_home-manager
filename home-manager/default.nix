@@ -126,10 +126,10 @@ in
         hunspell
         iftop
         jetbrains-mono
-        jetbrains.phpstorm
+        #jetbrains.phpstorm - unfree
         jq
         ripgrep
-        slack
+        #slack - unfree
         tree
         pstree
         tmux
