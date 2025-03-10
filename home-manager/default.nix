@@ -83,9 +83,9 @@ in
         gopls
         #ngrok - unfree
         ssm-session-manager-plugin
-        terraform
-        terraform-ls
-        tflint
+        #terraform
+        #terraform-ls
+        #tflint
       
         # Media-related packages
         emacs-all-the-icons-fonts
