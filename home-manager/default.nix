@@ -81,7 +81,7 @@ in
         google-cloud-sdk
         go
         gopls
-        ngrok
+        #ngrok - unfree
         ssm-session-manager-plugin
         terraform
         terraform-ls
